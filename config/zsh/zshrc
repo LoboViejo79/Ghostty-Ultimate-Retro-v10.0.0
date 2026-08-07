@@ -1,0 +1,151 @@
+# Zsh — Ghostty Ultimate Retro v10.0.0
+
+HISTFILE="$HOME/.zsh_history"
+HISTSIZE=50000
+SAVEHIST=50000
+
+setopt appendhistory sharehistory hist_ignore_dups hist_ignore_space
+setopt auto_cd interactive_comments extended_glob
+
+autoload -Uz compinit add-zsh-hook
+# Cache de completado para acelerar el inicio.
+zcompdump="${XDG_CACHE_HOME:-$HOME/.cache}/zsh/zcompdump"
+mkdir -p "${zcompdump:h}"
+compinit -d "$zcompdump"
+
+if [[ -r "$HOME/.local/share/powerlevel10k/powerlevel10k.zsh-theme" ]]; then
+    source "$HOME/.local/share/powerlevel10k/powerlevel10k.zsh-theme"
+fi
+[[ -r "$HOME/.p10k.zsh" ]] && source "$HOME/.p10k.zsh"
+
+# Complementos: primero instalación local portable; después rutas comunes.
+if [[ -r "$HOME/.local/share/ghostty-ultimate/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh" ]]; then
+    source "$HOME/.local/share/ghostty-ultimate/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh"
+elif [[ -r /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh ]]; then
+    source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+elif [[ -r /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]]; then
+    source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+fi
+
+if [[ -r "$HOME/.local/share/ghostty-ultimate/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" ]]; then
+    source "$HOME/.local/share/ghostty-ultimate/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+elif [[ -r /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
+    source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+elif [[ -r /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
+    source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+fi
+
+export EZA_COLORS='di=1;38;2;189;147;249:ln=1;38;2;139;233;253:ex=1;38;2;80;250;123:*.py=1;38;2;241;250;140:*.pyc=38;2;98;114;164:*.pdf=1;38;2;255;85;85:*.doc=1;38;2;139;233;253:*.docx=1;38;2;139;233;253:*.odt=1;38;2;139;233;253:*.jpg=1;38;2;255;121;198:*.jpeg=1;38;2;255;121;198:*.png=1;38;2;255;121;198:*.gif=1;38;2;255;121;198:*.svg=1;38;2;255;121;198:*.zip=1;38;2;255;184;108:*.tar=1;38;2;255;184;108:*.gz=1;38;2;255;184;108'
+if (( $+commands[eza] )); then
+    alias ls='eza --icons=always --color=always --group-directories-first'
+    alias ll='eza -lah --icons=always --color=always --group-directories-first --git --time-style=long-iso'
+    alias la='eza -a --icons=always --color=always --group-directories-first'
+    alias l='eza -lah --icons=always --color=always --group-directories-first --git'
+    alias tree='eza --tree --icons=always --color=always'
+    alias colorls='eza --icons=always --color=always --group-directories-first'
+fi
+
+if (( $+commands[bat] )); then
+    alias cat='bat --theme=Dracula --style=plain --paging=never'
+elif (( $+commands[batcat] )); then
+    alias cat='batcat --theme=Dracula --style=plain --paging=never'
+fi
+alias grep='grep --color=auto'
+
+# Paleta Dracula para sugerencias y resaltado.
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#6272a4'
+typeset -A ZSH_HIGHLIGHT_STYLES
+ZSH_HIGHLIGHT_STYLES[default]='fg=#f8f8f2'
+ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=#ff5555,bold'
+ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#ff79c6,bold'
+ZSH_HIGHLIGHT_STYLES[suffix-alias]='fg=#50fa7b'
+ZSH_HIGHLIGHT_STYLES[global-alias]='fg=#50fa7b'
+ZSH_HIGHLIGHT_STYLES[precommand]='fg=#50fa7b'
+ZSH_HIGHLIGHT_STYLES[commandseparator]='fg=#ff79c6'
+ZSH_HIGHLIGHT_STYLES[autodirectory]='fg=#bd93f9,bold'
+ZSH_HIGHLIGHT_STYLES[path]='fg=#8be9fd,underline'
+ZSH_HIGHLIGHT_STYLES[path_pathseparator]='fg=#8be9fd'
+ZSH_HIGHLIGHT_STYLES[globbing]='fg=#f1fa8c'
+ZSH_HIGHLIGHT_STYLES[single-hyphen-option]='fg=#ffb86c'
+ZSH_HIGHLIGHT_STYLES[double-hyphen-option]='fg=#ffb86c'
+ZSH_HIGHLIGHT_STYLES[single-quoted-argument]='fg=#f1fa8c'
+ZSH_HIGHLIGHT_STYLES[double-quoted-argument]='fg=#f1fa8c'
+ZSH_HIGHLIGHT_STYLES[dollar-quoted-argument]='fg=#f1fa8c'
+ZSH_HIGHLIGHT_STYLES[redirection]='fg=#ff79c6'
+ZSH_HIGHLIGHT_STYLES[comment]='fg=#6272a4'
+
+
+_ghostty_pro_random_image() {
+    local -a images
+    images=("$HOME/.config/fastfetch/images/"*.png(N))
+    if (( ${#images} )); then
+        local idx=$(( RANDOM % ${#images} + 1 ))
+        print -r -- "${images[$idx]}"
+    fi
+}
+
+_ghostty_pro_random_quote() {
+    local file="$HOME/.config/ghostty-ultimate/quotes/all.txt"
+    [[ -r "$file" ]] || return 0
+    local total line
+    total=$(wc -l < "$file")
+    (( total > 0 )) || return 0
+    line=$(( RANDOM % total + 1 ))
+    sed -n "${line}p" "$file"
+}
+
+ghostty_fastfetch() {
+    local columnas="${COLUMNS:-$(tput cols 2>/dev/null || print 120)}"
+    local filas="${LINES:-$(tput lines 2>/dev/null || print 30)}"
+    local config image tmp
+
+    # El perfil considera ancho y alto. Siempre conserva una imagen aleatoria,
+    # pero reduce su tamaño cuando la ventana tiene menos espacio disponible.
+    if (( columnas < 90 || filas < 24 )); then
+        config="$HOME/.config/fastfetch/config-compact.jsonc"
+    elif (( columnas < 145 || filas < 32 )); then
+        config="$HOME/.config/fastfetch/config-medium.jsonc"
+    else
+        config="$HOME/.config/fastfetch/config-large.jsonc"
+    fi
+
+    image="$(_ghostty_pro_random_image)"
+    command -v fastfetch >/dev/null 2>&1 || return 0
+    if [[ -n "$image" ]]; then
+        tmp=$(mktemp "${TMPDIR:-/tmp}/ghostty-pro-fastfetch.XXXXXX.jsonc") || return 1
+        sed "s#@RANDOM_IMAGE@#${image//\/\\}#g" "$config" > "$tmp"
+        fastfetch --config "$tmp"
+        rm -f -- "$tmp"
+    else
+        # El panel sigue funcionando si el directorio de imágenes está vacío.
+        fastfetch --config "$config" --logo none
+    fi
+
+    local quote="$(_ghostty_pro_random_quote)"
+    if [[ -n "$quote" ]]; then
+        local quote_limit=$(( columnas > 12 ? columnas - 8 : 4 ))
+        if (( ${#quote} > quote_limit )); then
+            quote="${quote[1,$(( quote_limit - 1 ))]}…"
+        fi
+        print -P "%F{141}󰌵  $quote%f"
+    fi
+    print
+}
+
+ff() {
+    clear
+    ghostty_fastfetch
+}
+
+gtheme() {
+    "$HOME/.local/bin/ghostty-theme"
+}
+
+_fastfetch_inicio_ghostty() {
+    add-zsh-hook -d precmd _fastfetch_inicio_ghostty
+    if [[ "${TERM_PROGRAM:-}" == "ghostty" && -z "${FASTFETCH_SHOWN:-}" ]]; then
+        export FASTFETCH_SHOWN=1
+        ghostty_fastfetch
+    fi
+}
+add-zsh-hook precmd _fastfetch_inicio_ghostty

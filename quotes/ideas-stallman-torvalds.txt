@@ -1,0 +1,100 @@
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 5.

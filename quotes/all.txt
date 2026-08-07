@@ -1,0 +1,300 @@
+Linux pidió permisos; Windows pidió reiniciar. Caso del servidor.
+En Linux el ping responde; en Windows responde el asistente. Caso del servidor.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del servidor.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del servidor.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del servidor.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del servidor.
+Linux encontró el driver; Windows encontró una oferta. Caso del servidor.
+Linux monta discos; Windows monta dramas. Caso del servidor.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del servidor.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del servidor.
+Linux pidió permisos; Windows pidió reiniciar. Caso del portátil.
+En Linux el ping responde; en Windows responde el asistente. Caso del portátil.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del portátil.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del portátil.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del portátil.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del portátil.
+Linux encontró el driver; Windows encontró una oferta. Caso del portátil.
+Linux monta discos; Windows monta dramas. Caso del portátil.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del portátil.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del portátil.
+Linux pidió permisos; Windows pidió reiniciar. Caso del laboratorio.
+En Linux el ping responde; en Windows responde el asistente. Caso del laboratorio.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del laboratorio.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del laboratorio.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del laboratorio.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del laboratorio.
+Linux encontró el driver; Windows encontró una oferta. Caso del laboratorio.
+Linux monta discos; Windows monta dramas. Caso del laboratorio.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del laboratorio.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del laboratorio.
+Linux pidió permisos; Windows pidió reiniciar. Caso del oficina.
+En Linux el ping responde; en Windows responde el asistente. Caso del oficina.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del oficina.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del oficina.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del oficina.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del oficina.
+Linux encontró el driver; Windows encontró una oferta. Caso del oficina.
+Linux monta discos; Windows monta dramas. Caso del oficina.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del oficina.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del oficina.
+Linux pidió permisos; Windows pidió reiniciar. Caso del nube.
+En Linux el ping responde; en Windows responde el asistente. Caso del nube.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del nube.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del nube.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del nube.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del nube.
+Linux encontró el driver; Windows encontró una oferta. Caso del nube.
+Linux monta discos; Windows monta dramas. Caso del nube.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del nube.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del nube.
+Linux pidió permisos; Windows pidió reiniciar. Caso del homelab.
+En Linux el ping responde; en Windows responde el asistente. Caso del homelab.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del homelab.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del homelab.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del homelab.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del homelab.
+Linux encontró el driver; Windows encontró una oferta. Caso del homelab.
+Linux monta discos; Windows monta dramas. Caso del homelab.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del homelab.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del homelab.
+Linux pidió permisos; Windows pidió reiniciar. Caso del escritorio.
+En Linux el ping responde; en Windows responde el asistente. Caso del escritorio.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del escritorio.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del escritorio.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del escritorio.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del escritorio.
+Linux encontró el driver; Windows encontró una oferta. Caso del escritorio.
+Linux monta discos; Windows monta dramas. Caso del escritorio.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del escritorio.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del escritorio.
+Linux pidió permisos; Windows pidió reiniciar. Caso del terminal.
+En Linux el ping responde; en Windows responde el asistente. Caso del terminal.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del terminal.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del terminal.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del terminal.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del terminal.
+Linux encontró el driver; Windows encontró una oferta. Caso del terminal.
+Linux monta discos; Windows monta dramas. Caso del terminal.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del terminal.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del terminal.
+Linux pidió permisos; Windows pidió reiniciar. Caso del router.
+En Linux el ping responde; en Windows responde el asistente. Caso del router.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del router.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del router.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del router.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del router.
+Linux encontró el driver; Windows encontró una oferta. Caso del router.
+Linux monta discos; Windows monta dramas. Caso del router.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del router.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del router.
+Linux pidió permisos; Windows pidió reiniciar. Caso del backup.
+En Linux el ping responde; en Windows responde el asistente. Caso del backup.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del backup.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del backup.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del backup.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del backup.
+Linux encontró el driver; Windows encontró una oferta. Caso del backup.
+Linux monta discos; Windows monta dramas. Caso del backup.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del backup.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del backup.
+Windows dijo «solo un minuto»; el café ya estaba frío. Edición lunes.
+El solucionador de problemas encontró un problema: el solucionador. Edición lunes.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Edición lunes.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Edición lunes.
+Windows vio una impresora y comenzó una misión secundaria. Edición lunes.
+El progreso llegó al 99 % y decidió contemplar la vida. Edición lunes.
+El antivirus terminó el análisis justo después de la reunión. Edición lunes.
+El explorador se quedó pensando en una carpeta vacía. Edición lunes.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Edición lunes.
+El mensaje «esto no tardará» carecía de unidad de medida. Edición lunes.
+Windows dijo «solo un minuto»; el café ya estaba frío. Edición martes.
+El solucionador de problemas encontró un problema: el solucionador. Edición martes.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Edición martes.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Edición martes.
+Windows vio una impresora y comenzó una misión secundaria. Edición martes.
+El progreso llegó al 99 % y decidió contemplar la vida. Edición martes.
+El antivirus terminó el análisis justo después de la reunión. Edición martes.
+El explorador se quedó pensando en una carpeta vacía. Edición martes.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Edición martes.
+El mensaje «esto no tardará» carecía de unidad de medida. Edición martes.
+Windows dijo «solo un minuto»; el café ya estaba frío. Edición miércoles.
+El solucionador de problemas encontró un problema: el solucionador. Edición miércoles.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Edición miércoles.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Edición miércoles.
+Windows vio una impresora y comenzó una misión secundaria. Edición miércoles.
+El progreso llegó al 99 % y decidió contemplar la vida. Edición miércoles.
+El antivirus terminó el análisis justo después de la reunión. Edición miércoles.
+El explorador se quedó pensando en una carpeta vacía. Edición miércoles.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Edición miércoles.
+El mensaje «esto no tardará» carecía de unidad de medida. Edición miércoles.
+Windows dijo «solo un minuto»; el café ya estaba frío. Edición jueves.
+El solucionador de problemas encontró un problema: el solucionador. Edición jueves.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Edición jueves.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Edición jueves.
+Windows vio una impresora y comenzó una misión secundaria. Edición jueves.
+El progreso llegó al 99 % y decidió contemplar la vida. Edición jueves.
+El antivirus terminó el análisis justo después de la reunión. Edición jueves.
+El explorador se quedó pensando en una carpeta vacía. Edición jueves.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Edición jueves.
+El mensaje «esto no tardará» carecía de unidad de medida. Edición jueves.
+Windows dijo «solo un minuto»; el café ya estaba frío. Edición viernes.
+El solucionador de problemas encontró un problema: el solucionador. Edición viernes.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Edición viernes.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Edición viernes.
+Windows vio una impresora y comenzó una misión secundaria. Edición viernes.
+El progreso llegó al 99 % y decidió contemplar la vida. Edición viernes.
+El antivirus terminó el análisis justo después de la reunión. Edición viernes.
+El explorador se quedó pensando en una carpeta vacía. Edición viernes.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Edición viernes.
+El mensaje «esto no tardará» carecía de unidad de medida. Edición viernes.
+Windows dijo «solo un minuto»; el café ya estaba frío. Modo soporte.
+El solucionador de problemas encontró un problema: el solucionador. Modo soporte.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Modo soporte.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Modo soporte.
+Windows vio una impresora y comenzó una misión secundaria. Modo soporte.
+El progreso llegó al 99 % y decidió contemplar la vida. Modo soporte.
+El antivirus terminó el análisis justo después de la reunión. Modo soporte.
+El explorador se quedó pensando en una carpeta vacía. Modo soporte.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Modo soporte.
+El mensaje «esto no tardará» carecía de unidad de medida. Modo soporte.
+Windows dijo «solo un minuto»; el café ya estaba frío. Modo producción.
+El solucionador de problemas encontró un problema: el solucionador. Modo producción.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Modo producción.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Modo producción.
+Windows vio una impresora y comenzó una misión secundaria. Modo producción.
+El progreso llegó al 99 % y decidió contemplar la vida. Modo producción.
+El antivirus terminó el análisis justo después de la reunión. Modo producción.
+El explorador se quedó pensando en una carpeta vacía. Modo producción.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Modo producción.
+El mensaje «esto no tardará» carecía de unidad de medida. Modo producción.
+Windows dijo «solo un minuto»; el café ya estaba frío. Modo remoto.
+El solucionador de problemas encontró un problema: el solucionador. Modo remoto.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Modo remoto.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Modo remoto.
+Windows vio una impresora y comenzó una misión secundaria. Modo remoto.
+El progreso llegó al 99 % y decidió contemplar la vida. Modo remoto.
+El antivirus terminó el análisis justo después de la reunión. Modo remoto.
+El explorador se quedó pensando en una carpeta vacía. Modo remoto.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Modo remoto.
+El mensaje «esto no tardará» carecía de unidad de medida. Modo remoto.
+Windows dijo «solo un minuto»; el café ya estaba frío. Modo presentación.
+El solucionador de problemas encontró un problema: el solucionador. Modo presentación.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Modo presentación.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Modo presentación.
+Windows vio una impresora y comenzó una misión secundaria. Modo presentación.
+El progreso llegó al 99 % y decidió contemplar la vida. Modo presentación.
+El antivirus terminó el análisis justo después de la reunión. Modo presentación.
+El explorador se quedó pensando en una carpeta vacía. Modo presentación.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Modo presentación.
+El mensaje «esto no tardará» carecía de unidad de medida. Modo presentación.
+Windows dijo «solo un minuto»; el café ya estaba frío. Modo urgente.
+El solucionador de problemas encontró un problema: el solucionador. Modo urgente.
+Reiniciar no es una estrategia, salvo que el logo tenga ventanas. Modo urgente.
+El botón «Ahora no» significa «preguntaré otra vez en cinco minutos». Modo urgente.
+Windows vio una impresora y comenzó una misión secundaria. Modo urgente.
+El progreso llegó al 99 % y decidió contemplar la vida. Modo urgente.
+El antivirus terminó el análisis justo después de la reunión. Modo urgente.
+El explorador se quedó pensando en una carpeta vacía. Modo urgente.
+Una actualización corrigió tres cosas y presentó cuatro nuevas. Modo urgente.
+El mensaje «esto no tardará» carecía de unidad de medida. Modo urgente.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 1.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 2.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 3.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 4.
+Paráfrasis de una idea de Richard Stallman: La libertad del usuario debe guiar el diseño del software. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Compartir conocimiento fortalece a toda la comunidad. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Controlar el programa evita que el programa controle al usuario. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: El código accesible permite estudiar, adaptar y mejorar. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: La comodidad no sustituye a la libertad informática. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Una comunidad libre necesita reglas que protejan la cooperación. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: El software ético respeta la autonomía de quien lo usa. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Copiar y aprender no deberían tratarse como actos antisociales. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: La transparencia técnica ayuda a defender derechos digitales. Enfoque 5.
+Paráfrasis de una idea de Richard Stallman: Una licencia libre convierte colaboración en garantía duradera. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 1.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 2.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 3.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 4.
+Paráfrasis de una idea de Linus Torvalds: El código útil se demuestra funcionando, no solo discutiéndose. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Las revisiones directas mejoran los cambios técnicos. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Un buen diseño reduce casos especiales innecesarios. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Los errores pequeños merecen correcciones claras y verificables. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: La compatibilidad importa porque los usuarios dependen de ella. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Las herramientas deben servir al trabajo real del desarrollador. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Una solución simple suele sobrevivir mejor al mantenimiento. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Medir y probar vale más que adivinar el rendimiento. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: El desarrollo abierto permite detectar fallos desde más ángulos. Enfoque 5.
+Paráfrasis de una idea de Linus Torvalds: Los cambios grandes son más seguros cuando se dividen y revisan. Enfoque 5.

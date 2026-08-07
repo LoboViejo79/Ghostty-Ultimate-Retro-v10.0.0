@@ -1,0 +1,100 @@
+Linux pidió permisos; Windows pidió reiniciar. Caso del servidor.
+En Linux el ping responde; en Windows responde el asistente. Caso del servidor.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del servidor.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del servidor.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del servidor.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del servidor.
+Linux encontró el driver; Windows encontró una oferta. Caso del servidor.
+Linux monta discos; Windows monta dramas. Caso del servidor.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del servidor.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del servidor.
+Linux pidió permisos; Windows pidió reiniciar. Caso del portátil.
+En Linux el ping responde; en Windows responde el asistente. Caso del portátil.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del portátil.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del portátil.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del portátil.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del portátil.
+Linux encontró el driver; Windows encontró una oferta. Caso del portátil.
+Linux monta discos; Windows monta dramas. Caso del portátil.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del portátil.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del portátil.
+Linux pidió permisos; Windows pidió reiniciar. Caso del laboratorio.
+En Linux el ping responde; en Windows responde el asistente. Caso del laboratorio.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del laboratorio.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del laboratorio.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del laboratorio.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del laboratorio.
+Linux encontró el driver; Windows encontró una oferta. Caso del laboratorio.
+Linux monta discos; Windows monta dramas. Caso del laboratorio.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del laboratorio.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del laboratorio.
+Linux pidió permisos; Windows pidió reiniciar. Caso del oficina.
+En Linux el ping responde; en Windows responde el asistente. Caso del oficina.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del oficina.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del oficina.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del oficina.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del oficina.
+Linux encontró el driver; Windows encontró una oferta. Caso del oficina.
+Linux monta discos; Windows monta dramas. Caso del oficina.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del oficina.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del oficina.
+Linux pidió permisos; Windows pidió reiniciar. Caso del nube.
+En Linux el ping responde; en Windows responde el asistente. Caso del nube.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del nube.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del nube.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del nube.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del nube.
+Linux encontró el driver; Windows encontró una oferta. Caso del nube.
+Linux monta discos; Windows monta dramas. Caso del nube.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del nube.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del nube.
+Linux pidió permisos; Windows pidió reiniciar. Caso del homelab.
+En Linux el ping responde; en Windows responde el asistente. Caso del homelab.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del homelab.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del homelab.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del homelab.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del homelab.
+Linux encontró el driver; Windows encontró una oferta. Caso del homelab.
+Linux monta discos; Windows monta dramas. Caso del homelab.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del homelab.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del homelab.
+Linux pidió permisos; Windows pidió reiniciar. Caso del escritorio.
+En Linux el ping responde; en Windows responde el asistente. Caso del escritorio.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del escritorio.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del escritorio.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del escritorio.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del escritorio.
+Linux encontró el driver; Windows encontró una oferta. Caso del escritorio.
+Linux monta discos; Windows monta dramas. Caso del escritorio.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del escritorio.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del escritorio.
+Linux pidió permisos; Windows pidió reiniciar. Caso del terminal.
+En Linux el ping responde; en Windows responde el asistente. Caso del terminal.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del terminal.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del terminal.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del terminal.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del terminal.
+Linux encontró el driver; Windows encontró una oferta. Caso del terminal.
+Linux monta discos; Windows monta dramas. Caso del terminal.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del terminal.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del terminal.
+Linux pidió permisos; Windows pidió reiniciar. Caso del router.
+En Linux el ping responde; en Windows responde el asistente. Caso del router.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del router.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del router.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del router.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del router.
+Linux encontró el driver; Windows encontró una oferta. Caso del router.
+Linux monta discos; Windows monta dramas. Caso del router.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del router.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del router.
+Linux pidió permisos; Windows pidió reiniciar. Caso del backup.
+En Linux el ping responde; en Windows responde el asistente. Caso del backup.
+Linux usa logs; Windows usa ventanas con cara seria. Caso del backup.
+En Linux eliges el escritorio; en Windows el escritorio te elige. Caso del backup.
+Linux actualizó el kernel y siguió trabajando; Windows actualizó el fondo y pidió reinicio. Caso del backup.
+El terminal de Linux tiene historial; Windows tiene antecedentes. Caso del backup.
+Linux encontró el driver; Windows encontró una oferta. Caso del backup.
+Linux monta discos; Windows monta dramas. Caso del backup.
+Linux respeta tu configuración; Windows la llama recomendación. Caso del backup.
+En Linux un servicio falla y deja un log; en Windows deja una sorpresa. Caso del backup.

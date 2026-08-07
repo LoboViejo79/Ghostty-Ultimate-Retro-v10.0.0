@@ -1,0 +1,98 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "kitty-direct",
+    "source": "@RANDOM_IMAGE@",
+    // Las celdas del terminal son aproximadamente el doble de altas que de anchas.
+    // Una caja 2:1 conserva la proporción visual de los PNG cuadrados.
+    "width": 18,
+    "height": 9,
+    "preserveAspectRatio": true,
+    "padding": {
+      "top": 0,
+      "left": 1,
+      "right": 3
+    },
+    "printRemaining": false
+  },
+  "display": {
+    "separator": "  ",
+    "color": {
+      "keys": "38;2;139;233;253",
+      "output": "38;2;248;248;242",
+      "separator": "38;2;98;114;164"
+    },
+    "percent": {
+      "type": ["num", "num-color"],
+      "color": {
+        "green": "38;2;80;250;123",
+        "yellow": "38;2;241;250;140",
+        "red": "38;2;255;85;85"
+      }
+    },
+    "temp": {
+      "color": {
+        "green": "38;2;80;250;123",
+        "yellow": "38;2;255;184;108",
+        "red": "38;2;255;85;85"
+      }
+    }
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;189;147;249m╭─ Hardware \u001b[38;2;98;114;164m──────────────────────────\u001b[0m"
+    },
+    {
+      "type": "host",
+      "key": "├─ Host"
+    },
+    {
+      "type": "board",
+      "key": "├─ Board"
+    },
+    {
+      "type": "cpu",
+      "key": "├─ CPU",
+      "temp": true
+    },
+    {
+      "type": "memory",
+      "key": "├─ RAM"
+    },
+    {
+      "type": "swap",
+      "key": "├─ Zram"
+    },
+    {
+      "type": "disk",
+      "key": "├─ Disk",
+      "folders": "/"
+    },
+    {
+      "type": "physicaldisk",
+      "key": "├─ Disks"
+    },
+    {
+      "type": "gpu",
+      "key": "├─ GPU"
+    },
+    {
+      "type": "opengl",
+      "key": "├─ OpenGL"
+    },
+    {
+      "type": "vulkan",
+      "key": "├─ Vulkan"
+    },
+    {
+      "type": "display",
+      "key": "╰─ Display",
+      "compactType": "original-with-refresh-rate"
+    },
+    {
+      "type": "custom",
+      "format": "   \u001b[38;2;241;250;140m󰮯  \u001b[38;2;248;248;242m•  \u001b[38;2;189;147;249m󰊠  \u001b[38;2;255;121;198m󰊠  \u001b[38;2;255;85;85m󰊠  \u001b[38;2;255;184;108m󰊠  \u001b[38;2;80;250;123m󰊠  \u001b[38;2;139;233;253m󰊠  \u001b[38;2;98;114;164m󰊠\u001b[0m"
+    }
+  ]
+}

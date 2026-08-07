@@ -1,0 +1,166 @@
+GHOSTTY ULTIMATE RETRO v10.0.0
+==============================
+
+OBJETIVO
+--------
+Configurar Ghostty, Zsh, Powerlevel10k, Fastfetch, temas, iconos, frases
+y atajos de teclado con una estética retro basada en Dracula.
+
+DISTRIBUCIÓN PRINCIPAL
+----------------------
+El proyecto fue creado especialmente para CachyOS.
+
+También puede utilizarse en:
+- Arch Linux
+- EndeavourOS
+- Manjaro
+- Debian
+- Ubuntu y derivadas
+- Fedora
+
+En Debian, Ubuntu y Fedora, Ghostty debe estar disponible en los repositorios
+habilitados o instalarse previamente mediante un método oficial. El script
+no agrega repositorios externos ni compila Ghostty automáticamente.
+
+ADVERTENCIAS
+------------
+La aplicación de configuraciones reemplaza archivos del usuario.
+Antes crea una copia de seguridad en:
+
+~/.local/state/ghostty-ultimate/backups/
+
+No modifica particiones, Btrfs, LUKS, snapshots ni bootloader.
+
+INSTALACIÓN
+-----------
+1. Descomprime el ZIP:
+
+   unzip Ghostty-Ultimate-Retro-v10.0.0.zip
+
+2. Entra en el directorio:
+
+   cd Ghostty-Ultimate-Retro-v10.0.0
+
+3. Ejecuta:
+
+   bash iniciar.sh
+
+4. Selecciona primero:
+
+   1) Diagnóstico previo
+
+5. Después selecciona:
+
+   4) Instalación guiada completa
+
+6. Lee cada aviso antes de confirmar.
+
+7. Cierra todas las ventanas de Ghostty y vuelve a abrirlo.
+
+PAQUETES
+--------
+Comunes:
+ghostty, zsh, git, eza, bat, fastfetch y fontconfig.
+
+Arch/CachyOS:
+ttf-jetbrains-mono-nerd, zsh-autosuggestions y
+zsh-syntax-highlighting.
+
+En Debian/Fedora los complementos de Zsh y Powerlevel10k se instalan
+localmente dentro de ~/.local/share/.
+
+IMÁGENES
+--------
+Fastfetch elige aleatoriamente cualquier archivo PNG presente en:
+
+~/.config/fastfetch/images/
+
+Puedes borrar imágenes que no quieras. No se romperá la rotación mientras
+quede al menos una imagen PNG válida.
+
+También puedes añadir nuevos PNG sin modificar scripts.
+
+La selección se realiza al abrir cada terminal. La imagen siempre permanece
+visible mientras exista al menos un PNG y cambia de tamaño automáticamente:
+
+- Compacta: 10x5 celdas.
+- Mediana:  14x7 celdas.
+- Grande:   18x9 celdas.
+
+El perfil se elige usando el ancho y el alto de la terminal. Las imágenes
+mantienen una proporción 2:1 para compensar la forma rectangular de las celdas.
+Las ventanas nuevas se abren inicialmente a 109 columnas por 22 filas.
+
+FASTFETCH
+---------
+El panel Hardware utiliza la paleta oficial Dracula y muestra Host, placa,
+CPU y temperatura, RAM, Zram, discos, GPU, OpenGL, Vulkan y pantallas.
+Debajo incluye una fila decorativa de Pac-Man y fantasmas. Las citas largas
+se recortan automáticamente para que el contenido no quede cortado.
+
+IMPORTANTE:
+Al usar "Aplicar o reinstalar configuraciones", el directorio de imágenes
+instalado se reemplaza por el contenido de assets/ incluido en el proyecto.
+
+ATAJOS
+------
+Ctrl+C                        Copiar selección; SIGINT si no hay selección
+Ctrl+V                        Pegar
+Ctrl+Shift+C                  Copiar alternativo
+Ctrl+Shift+V                  Pegar alternativo
+
+Ctrl+Alt+Derecha              Crear división derecha
+Ctrl+Alt+Abajo                Crear división abajo
+Ctrl+Alt+Izquierda            Crear división izquierda
+Ctrl+Alt+Arriba               Crear división arriba
+
+Ctrl+Shift+Flechas            Mover foco entre paneles
+Ctrl+Page Up                  Panel anterior
+Ctrl+Page Down                Panel siguiente
+Ctrl+Shift+W                  Cerrar panel
+Ctrl+Shift+Enter              Zoom del panel
+Ctrl+Alt+=                    Igualar paneles
+Ctrl+Alt+Shift+Flechas        Redimensionar panel
+
+Ctrl+Shift+N                  Nueva ventana
+Ctrl+Shift+T                  Nueva pestaña
+Ctrl+Tab                      Pestaña siguiente
+Ctrl+Shift+Tab                Pestaña anterior
+Ctrl+Alt+W                    Cerrar ventana
+Ctrl+Shift+R                  Recargar configuración
+Ctrl+Shift+P                  Paleta de comandos
+
+Shift+Page Up                 Subir historial
+Shift+Page Down               Bajar historial
+Ctrl+Shift+Home               Inicio del historial
+Ctrl+Shift+End                Final del historial
+
+COMANDOS
+--------
+ll                             Listado detallado con iconos y Git
+la                             Incluye archivos ocultos
+tree                           Árbol con iconos
+ff                             Ejecutar Fastfetch
+gtheme                         Selector de temas
+
+TEMAS
+-----
+- Dracula Official
+- Catppuccin Mocha
+- Tokyo Night
+- Nord
+- Gruvbox Dark
+- Everforest Dark
+- Kanagawa Wave
+
+RESTAURAR
+---------
+Ejecuta bash iniciar.sh y selecciona:
+
+8) Restaurar el respaldo más reciente
+
+VALIDAR
+-------
+Ejecuta bash iniciar.sh y selecciona:
+
+5) Validar instalación actual

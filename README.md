@@ -199,16 +199,17 @@ recortan con puntos suspensivos para conservar una presentación ordenada.
 
 ## Capturas
 
-La captura principal situada al comienzo del README muestra el diseño actual.
+### Panel de hardware adaptativo
 
-<details>
-<summary>Capturas anteriores</summary>
+![Panel de hardware adaptativo con Pac-Man](screenshots/02.png)
+
+### Perfil clásico de Fastfetch
 
 ![Diseño anterior de Fastfetch](screenshots/01.png)
 
-![Captura original de Ghostty Ultimate Retro](screenshots/Terminal_Ghostty.png)
+### Vista original de Ghostty Ultimate Retro
 
-</details>
+![Captura original de Ghostty Ultimate Retro](screenshots/Terminal_Ghostty.png)
 
 ## Atajos de teclado
 

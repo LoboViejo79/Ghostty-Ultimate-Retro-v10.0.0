@@ -50,6 +50,11 @@
       "key": "├─ Board"
     },
     {
+      "type": "kernel",
+      "key": "├─ Kernel",
+      "format": "{release}"
+    },
+    {
       "type": "cpu",
       "key": "├─ CPU",
       "temp": true

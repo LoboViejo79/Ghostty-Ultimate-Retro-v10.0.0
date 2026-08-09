@@ -15,7 +15,7 @@ paquetes depende de los repositorios de cada distribución.
 - Tema Dracula oficial como estilo predeterminado.
 - Temas alternativos: Catppuccin Mocha, Tokyo Night, Nord, Gruvbox Dark,
   Everforest Dark y Kanagawa Wave.
-- Prompt Powerlevel10k con directorio, Git, estado del comando y reloj.
+- Prompt Powerlevel10k retro de dos líneas con usuario, directorio, chevrones multicolor y reloj.
 - `eza` con iconos para directorios y tipos de archivo.
 - `bat` con colores Dracula.
 - Fastfetch con panel de hardware inspirado en la estética retro de la captura

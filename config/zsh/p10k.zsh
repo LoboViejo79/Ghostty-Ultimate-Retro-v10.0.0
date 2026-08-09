@@ -1,4 +1,4 @@
-# Powerlevel10k — estilo profesional Dracula de una línea inspirado en la captura.
+# Powerlevel10k — prompt retro de dos lineas inspirado en la referencia.
 
 'builtin' 'local' -a p10k_config_opts
 [[ ! -o aliases ]]         || p10k_config_opts+=(aliases)
@@ -10,64 +10,34 @@
   emulate -L zsh -o extended_glob
 
   typeset -g POWERLEVEL9K_MODE=nerdfont-v3
-  typeset -g POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir vcs prompt_char)
-  typeset -g POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status command_execution_time time)
+  typeset -g POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(retro_header newline prompt_char)
+  typeset -g POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=()
 
   typeset -g POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
-  typeset -g POWERLEVEL9K_LEFT_SEGMENT_SEPARATOR=''
-  typeset -g POWERLEVEL9K_LEFT_SUBSEGMENT_SEPARATOR=''
-  typeset -g POWERLEVEL9K_RIGHT_SEGMENT_SEPARATOR=''
-  typeset -g POWERLEVEL9K_RIGHT_SUBSEGMENT_SEPARATOR=''
+  typeset -g POWERLEVEL9K_BACKGROUND=
+  typeset -g POWERLEVEL9K_LEFT_SEGMENT_SEPARATOR=''
+  typeset -g POWERLEVEL9K_LEFT_SUBSEGMENT_SEPARATOR=''
 
-  # Segmento inicial tipo estrella/mascota.
-  typeset -g POWERLEVEL9K_OS_ICON_CONTENT_EXPANSION=''
-  typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=228
-  typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=236
+  # Barra superior: capsula violeta, flechas de colores y reloj azul.
+  # %1~ muestra solo el directorio actual y usa ~ cuando estamos en HOME.
+  function prompt_retro_header() {
+    p10k segment -f 255 -t '%F{141}%K{141}%F{236}  %n  %1~ %k%F{141}%f %F{84}❯%F{228}❯%F{203}❯%F{81}❯%f %F{103}%K{103}%F{236}  %D{%H:%M} %k%F{103}%f'
+  }
+  typeset -g POWERLEVEL9K_RETRO_HEADER_BACKGROUND=
+  typeset -g POWERLEVEL9K_RETRO_HEADER_FOREGROUND=
+  typeset -g POWERLEVEL9K_RETRO_HEADER_LEFT_LEFT_WHITESPACE=''
+  typeset -g POWERLEVEL9K_RETRO_HEADER_LEFT_RIGHT_WHITESPACE=''
 
-  # Directorio morado, como en la referencia.
-  typeset -g POWERLEVEL9K_DIR_FOREGROUND=236
-  typeset -g POWERLEVEL9K_DIR_BACKGROUND=141
-  typeset -g POWERLEVEL9K_DIR_ANCHOR_FOREGROUND=236
-  typeset -g POWERLEVEL9K_DIR_ANCHOR_BOLD=true
-  typeset -g POWERLEVEL9K_DIR_MAX_LENGTH=38
-  typeset -g POWERLEVEL9K_SHORTEN_STRATEGY=truncate_to_unique
-  typeset -g POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
-  typeset -g POWERLEVEL9K_HOME_ICON='~'
-  typeset -g POWERLEVEL9K_FOLDER_ICON=''
-
-  # Git verde.
-  typeset -g POWERLEVEL9K_VCS_BRANCH_ICON=' '
-  typeset -g POWERLEVEL9K_VCS_CLEAN_FOREGROUND=236
-  typeset -g POWERLEVEL9K_VCS_CLEAN_BACKGROUND=84
-  typeset -g POWERLEVEL9K_VCS_MODIFIED_FOREGROUND=236
-  typeset -g POWERLEVEL9K_VCS_MODIFIED_BACKGROUND=212
-  typeset -g POWERLEVEL9K_VCS_UNTRACKED_FOREGROUND=236
-  typeset -g POWERLEVEL9K_VCS_UNTRACKED_BACKGROUND=228
-
-  # El cursor queda pegado al último segmento, como en la captura.
+  # Segunda linea: indicador verde; cambia a rojo si el comando anterior falla.
   typeset -g POWERLEVEL9K_PROMPT_CHAR_BACKGROUND=
   typeset -g POWERLEVEL9K_PROMPT_CHAR_OK_VIINS_FOREGROUND=84
   typeset -g POWERLEVEL9K_PROMPT_CHAR_ERROR_VIINS_FOREGROUND=203
-  typeset -g POWERLEVEL9K_PROMPT_CHAR_OK_VIINS_CONTENT_EXPANSION='❯'
-  typeset -g POWERLEVEL9K_PROMPT_CHAR_ERROR_VIINS_CONTENT_EXPANSION='❯'
-  typeset -g POWERLEVEL9K_PROMPT_CHAR_LEFT_LEFT_WHITESPACE=' '
+  typeset -g POWERLEVEL9K_PROMPT_CHAR_OK_VIINS_CONTENT_EXPANSION='λ ❯'
+  typeset -g POWERLEVEL9K_PROMPT_CHAR_ERROR_VIINS_CONTENT_EXPANSION='λ ❯'
+  typeset -g POWERLEVEL9K_PROMPT_CHAR_OK_VICMD_CONTENT_EXPANSION='λ ❮'
+  typeset -g POWERLEVEL9K_PROMPT_CHAR_ERROR_VICMD_CONTENT_EXPANSION='λ ❮'
+  typeset -g POWERLEVEL9K_PROMPT_CHAR_LEFT_LEFT_WHITESPACE=''
   typeset -g POWERLEVEL9K_PROMPT_CHAR_LEFT_RIGHT_WHITESPACE=' '
-
-  # Estado y duración solo cuando aportan información.
-  typeset -g POWERLEVEL9K_STATUS_OK=false
-  typeset -g POWERLEVEL9K_STATUS_ERROR_FOREGROUND=255
-  typeset -g POWERLEVEL9K_STATUS_ERROR_BACKGROUND=203
-  typeset -g POWERLEVEL9K_STATUS_ERROR_VISUAL_IDENTIFIER_EXPANSION='✘'
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=3
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_PRECISION=1
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FOREGROUND=236
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_BACKGROUND=215
-
-  # Reloj a la derecha con forma de cápsula.
-  typeset -g POWERLEVEL9K_TIME_FORMAT='%D{%I:%M %p}'
-  typeset -g POWERLEVEL9K_TIME_VISUAL_IDENTIFIER_EXPANSION=''
-  typeset -g POWERLEVEL9K_TIME_FOREGROUND=236
-  typeset -g POWERLEVEL9K_TIME_BACKGROUND=255
 
   typeset -g POWERLEVEL9K_TRANSIENT_PROMPT=off
   typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet

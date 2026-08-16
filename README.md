@@ -2,8 +2,8 @@
 
 ![Ghostty Ultimate Retro con Fastfetch adaptativo](screenshots/02.png)
 
-Configuración modular para **Ghostty + Zsh + Powerlevel10k + Fastfetch**, con
-estética Dracula y rotación automática de imágenes retro.
+Configuración modular para **Ghostty + Zsh + Powerlevel10k + Fastfetch +
+Yazi**, con estética Dracula y rotación automática de imágenes retro.
 
 El proyecto fue creado y probado principalmente para **CachyOS**. También
 incluye soporte para distribuciones derivadas de Arch Linux y soporte
@@ -37,6 +37,8 @@ paquetes depende de los repositorios de cada distribución.
 - Restauración del respaldo más reciente.
 - Validación de Ghostty, Zsh, Fastfetch y temas.
 - Instalador consciente de la distribución.
+- Gestor de archivos Yazi con instalación, actualización, diagnóstico y
+  wrapper para cambiar el directorio de Zsh al salir.
 
 ## Distribuciones compatibles
 
@@ -66,6 +68,8 @@ una advertencia para instalar Ghostty por un método oficial.
 - `bat`
 - `fastfetch`
 - `fontconfig`
+- `yazi`
+- `file` (detección de tipos de archivo utilizada por Yazi)
 
 ### Arch/CachyOS
 
@@ -151,8 +155,61 @@ Ruta recomendada:
 8) Restaurar el respaldo más reciente
 9) Mostrar respaldos
 10) Cambiar shell de inicio a Zsh
+11) Instalar o actualizar Yazi
 0) Salir
 ```
+
+## Yazi
+
+La instalación de paquetes comprueba Yazi automáticamente. También puedes
+instalarlo o actualizarlo por separado con la opción
+**11) Instalar o actualizar Yazi** del menú.
+
+El instalador utiliza el siguiente método según el sistema:
+
+| Familia | Método principal | Alternativa si no está disponible |
+|---|---|---|
+| Arch, CachyOS y derivadas | `pacman` | Mensaje de error con enlace oficial |
+| Debian, Ubuntu y derivadas | `apt` | Snap, si ya está instalado y el usuario confirma |
+| Fedora y derivadas | `dnf` | Snap, si ya está instalado y el usuario confirma |
+
+No se instala nada sin confirmación. En Debian/Ubuntu, la opción dedicada
+puede ofrecer actualizar el índice de APT antes de volver a buscar el paquete.
+
+Después de aplicar la configuración, abre una terminal nueva o ejecuta
+`source ~/.zshrc`. Inicia el gestor de archivos con:
+
+```bash
+y
+```
+
+El wrapper acepta los mismos argumentos que `yazi`. Al salir con `q`, Zsh
+queda en el directorio visitado; con `Q`, conserva el directorio anterior.
+También puedes ejecutar `yazi` directamente si no quieres usar el wrapper.
+
+La opción 1 incluye `yazi` en el diagnóstico y la opción 5 lo considera un
+comando requerido durante la validación. Encontrarás más detalles en
+[docs/YAZI.md](docs/YAZI.md).
+
+## Actualización
+
+Si instalaste el proyecto mediante Git, actualiza sus archivos y vuelve a
+aplicar la configuración:
+
+```bash
+git pull
+bash iniciar.sh
+```
+
+Luego utiliza estas opciones:
+
+1. **2) Instalar solo paquetes faltantes**, para comprobar dependencias.
+2. **3) Aplicar o reinstalar configuraciones**, para copiar el nuevo `.zshrc`.
+3. **5) Validar instalación actual**, para comprobar el resultado.
+
+Para actualizar solamente Yazi, abre el menú y selecciona
+**11) Instalar o actualizar Yazi**. El script utiliza el mismo gestor con el
+que detecta la instalación (`pacman`, `apt`, `dnf` o Snap).
 
 ## Imágenes
 
@@ -243,6 +300,7 @@ la       archivos visibles y ocultos
 tree     árbol de directorios con iconos
 ff       ejecutar Fastfetch
 gtheme   abrir selector de temas
+y        abrir Yazi e importar el directorio al salir
 ```
 
 ## Restauración
@@ -279,6 +337,7 @@ Selecciona:
 .
 ├── assets/                 imágenes que rotará Fastfetch
 ├── bin/                    scripts del instalador
+│   └── install-yazi.sh     instalación y actualización de Yazi
 ├── config/
 │   ├── fastfetch/          perfiles JSONC
 │   ├── ghostty/            configuración y temas
@@ -296,6 +355,8 @@ Selecciona:
 
 - No se ejecuta una actualización completa del sistema automáticamente.
 - Los paquetes se instalan solo después de confirmación.
+- La actualización de Yazi se ejecuta únicamente desde la opción dedicada y
+  después de confirmación.
 - Los archivos del usuario se respaldan antes de reemplazarlos.
 - Los scripts no usan `curl | sh`.
 - No se agregan repositorios de terceros.
@@ -312,6 +373,8 @@ Selecciona:
 - Especificación oficial de Dracula: `https://draculatheme.com/spec`
 - Proyecto Dracula: `https://github.com/dracula/dracula-theme`
 - Powerlevel10k: `https://github.com/romkatv/powerlevel10k`
+- Instalación oficial de Yazi: `https://yazi-rs.github.io/docs/installation/`
+- Wrapper oficial de Yazi: `https://yazi-rs.github.io/docs/quick-start/`
 
 ## Licencia
 

@@ -3,8 +3,8 @@ GHOSTTY ULTIMATE RETRO v10.0.0
 
 OBJETIVO
 --------
-Configurar Ghostty, Zsh, Powerlevel10k, Fastfetch, temas, iconos, frases
-y atajos de teclado con una estética retro basada en Dracula.
+Configurar Ghostty, Zsh, Powerlevel10k, Fastfetch, Yazi, temas, iconos,
+frases y atajos de teclado con una estética retro basada en Dracula.
 
 DISTRIBUCIÓN PRINCIPAL
 ----------------------
@@ -60,7 +60,7 @@ INSTALACIÓN
 PAQUETES
 --------
 Comunes:
-ghostty, zsh, git, eza, bat, fastfetch y fontconfig.
+ghostty, zsh, git, eza, bat, fastfetch, fontconfig, yazi y file.
 
 Arch/CachyOS:
 ttf-jetbrains-mono-nerd, zsh-autosuggestions y
@@ -142,6 +142,37 @@ la                             Incluye archivos ocultos
 tree                           Árbol con iconos
 ff                             Ejecutar Fastfetch
 gtheme                         Selector de temas
+y                              Abrir Yazi; q cambia al directorio navegado
+
+YAZI
+----
+El instalador de paquetes instala Yazi si falta. También puedes ejecutar
+bash iniciar.sh y elegir:
+
+11) Instalar o actualizar Yazi
+
+Después, abre una terminal nueva o ejecuta: source ~/.zshrc
+Usa y para abrir Yazi. Sal con q para conservar el directorio navegado o con
+Q para mantener el directorio desde el que lo abriste.
+
+Métodos utilizados:
+- Arch/CachyOS y derivadas: pacman.
+- Debian/Ubuntu y derivadas: apt; Snap como alternativa si está disponible.
+- Fedora y derivadas: dnf; Snap como alternativa si está disponible.
+
+La opción Diagnóstico previo muestra si yazi está presente. La validación
+considera yazi un comando requerido.
+
+ACTUALIZAR EL PROYECTO
+----------------------
+Si descargaste el proyecto con Git, ejecuta:
+
+git pull
+bash iniciar.sh
+
+Después selecciona 2 para comprobar paquetes, 3 para volver a aplicar las
+configuraciones y 5 para validar. Para actualizar únicamente Yazi selecciona
+11) Instalar o actualizar Yazi.
 
 TEMAS
 -----

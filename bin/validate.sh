@@ -15,7 +15,7 @@ check() {
 printf '\nValidación\n'
 printf '──────────\n'
 
-for cmd in zsh git; do
+for cmd in zsh git yazi; do
     if command -v "$cmd" >/dev/null 2>&1; then
         printf '  ✔ comando %s\n' "$cmd"
     else

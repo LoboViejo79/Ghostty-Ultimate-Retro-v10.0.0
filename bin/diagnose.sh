@@ -12,7 +12,7 @@ printf 'Familia detectada: %s\n\n' "$family"
     ok "Familia compatible detectada." ||
     warn "Distribución no soportada automáticamente; la configuración manual puede seguir funcionando."
 
-commands=(ghostty zsh git eza fastfetch fc-cache)
+commands=(ghostty zsh git eza fastfetch yazi fc-cache)
 for cmd in "${commands[@]}"; do
     if command -v "$cmd" >/dev/null 2>&1; then
         printf '  ✔ %s\n' "$cmd"

@@ -1,5 +1,24 @@
 # Changelog
 
+## Próxima versión
+
+### Yazi
+
+- Yazi se comprueba e instala automáticamente durante la fase de paquetes.
+- Nueva opción `11) Instalar o actualizar Yazi` en el menú principal.
+- Nuevo script `bin/install-yazi.sh` con soporte para `pacman`, `apt`, `dnf`
+  y alternativa mediante Snap cuando el paquete no está disponible.
+- Las instalaciones y actualizaciones requieren confirmación explícita.
+- La instalación guiada conserva su comportamiento: si Yazi ya existe, no
+  fuerza una actualización.
+- Wrapper oficial `y` integrado en `config/zsh/zshrc`.
+- Al salir de Yazi con `q`, Zsh cambia al directorio navegado; con `Q`, mantiene
+  el directorio desde el que se abrió.
+- El diagnóstico previo ahora informa si el comando `yazi` está disponible.
+- La validación incluye `yazi` entre los comandos requeridos.
+- README, guía rápida y documentación específica actualizados con instalación,
+  uso, actualización, compatibilidad y resolución de problemas.
+
 ## 10.0.0
 
 - Proyecto preparado para publicación en GitHub.

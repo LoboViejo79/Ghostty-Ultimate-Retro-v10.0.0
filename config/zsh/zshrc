@@ -74,6 +74,15 @@ ZSH_HIGHLIGHT_STYLES[dollar-quoted-argument]='fg=#f1fa8c'
 ZSH_HIGHLIGHT_STYLES[redirection]='fg=#ff79c6'
 ZSH_HIGHLIGHT_STYLES[comment]='fg=#6272a4'
 
+# Yazi: al salir con q conserva el directorio navegado; Q no lo cambia.
+function y() {
+    local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+
+    command yazi "$@" --cwd-file="$tmp"
+    IFS= read -r -d '' cwd < "$tmp"
+    [[ "$cwd" != "$PWD" && -d "$cwd" ]] && builtin cd -- "$cwd"
+    command rm -f -- "$tmp"
+}
 
 _ghostty_pro_random_image() {
     local -a images

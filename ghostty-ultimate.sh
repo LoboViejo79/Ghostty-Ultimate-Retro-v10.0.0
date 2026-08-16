@@ -25,6 +25,7 @@ while true; do
       '8) Restaurar el respaldo más reciente' \
       '9) Mostrar respaldos' \
       '10) Cambiar shell de inicio a Zsh' \
+      '11) Instalar o actualizar Yazi' \
       '0) Salir' \
       ''
     read -r -p "Selecciona una opción: " choice
@@ -39,6 +40,7 @@ while true; do
         8)  bash "$PROJECT_DIR/bin/restore.sh"; pause_menu ;;
         9)  printf '\n%s\n' "$HOME/.local/state/ghostty-ultimate/backups"; pause_menu ;;
         10) bash "$PROJECT_DIR/bin/change-shell.sh"; pause_menu ;;
+        11) bash "$PROJECT_DIR/bin/install-yazi.sh" --update; pause_menu ;;
         0)  exit 0 ;;
         *)  printf '\nOpción inválida: %s\n' "$choice"; pause_menu ;;
     esac

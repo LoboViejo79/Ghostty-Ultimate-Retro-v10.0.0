@@ -115,4 +115,6 @@ case "$family" in
     *) die "Distribución no soportada automáticamente." ;;
 esac
 
+bash "$PROJECT_DIR/bin/install-yazi.sh"
+
 ok "Fase de paquetes finalizada."
